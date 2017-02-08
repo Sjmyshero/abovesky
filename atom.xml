@@ -4,9 +4,9 @@
   <subtitle>Create a world</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://www.starzcz.com/"/>
   <updated>2017-02-07T20:07:03.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://www.starzcz.com/</id>
   
   <author>
     <name>Abovesky</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/02/08/hello-world/"/>
-    <id>http://yoursite.com/2017/02/08/hello-world/</id>
+    <link href="http://www.starzcz.com/2017/02/08/hello-world/"/>
+    <id>http://www.starzcz.com/2017/02/08/hello-world/</id>
     <published>2017-02-07T20:07:03.000Z</published>
     <updated>2017-02-07T20:07:03.000Z</updated>
     
